@@ -44,6 +44,8 @@
 		7C7B49BF2263ACDE001F098B = {
 			isa = PBXGroup;
 			children = (
+				7CD5925222660347004D6D7E /* DataModel */,
+				7CD5925022660337004D6D7E /* Item.swift */,
 				7C7B49CA2263ACDE001F098B /* Todoey */,
 				7C7B49C92263ACDE001F098B /* Products */,
 			);
